@@ -1,0 +1,5 @@
+#Conjunto de araña
+item replace entity @s armor.chest with leather_chestplate{display:{Name:'{"text":"Leather Tunic","color":"gold"}',Lore:['{"text":"This is just a Kit Preview","color":"light_purple"}'],color:3748138},HideFlags:4,Unbreakable:1b} 1
+item replace entity @s armor.legs with leather_leggings{display:{Name:'{"text":"Leather Pants","color":"gold"}',Lore:['{"text":"This is just a Kit Preview","color":"light_purple"}'],color:3748138},HideFlags:4,Unbreakable:1b} 1
+item replace entity @s armor.feet with leather_boots{display:{Name:'{"text":"Leather Boots","color":"gold"}',Lore:['{"text":"This is just a Kit Preview","color":"light_purple"}'],color:3748138},HideFlags:4,Unbreakable:1b,Enchantments:[{id:"minecraft:protection",lvl:4s},{id:"minecraft:feather_falling",lvl:10s}]} 1
+item replace entity @s armor.head with minecraft:player_head{display:{Name:"{\"text\":\"Spider\"}"},SkullOwner:{Id:[I;-1339275177,1329941719,-2024897808,-1501401745],Properties:{textures:[{Value:"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMzVlMjQ4ZGEyZTEwOGYwOTgxM2E2Yjg0OGEwZmNlZjExMTMwMDk3ODE4MGVkYTQxZDNkMWE3YThlNGRiYTNjMyJ9fX0="}]}}} 1
